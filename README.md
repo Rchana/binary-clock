@@ -9,3 +9,5 @@ A 24 hour binary clock with 2 time setting buttons. To enter "time setting" mode
 * Arduino nano/uno
 
 ![alt text](https://github.com/Rchana/binary-clock/blob/master/pics/front-view.jpg "Finished design")
+![alt text](https://github.com/Rchana/binary-clock/blob/master/pics/circuit.jpg "Finished design (back)")
+![alt text](https://github.com/Rchana/binary-clock/blob/master/pics/schematic.jpg "Schematic")

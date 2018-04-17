@@ -1,5 +1,5 @@
 # binary-clock
-A 24 hour binary clock with 2 time setting buttons. To enter "time setting" mode and toggle between seconds/minutes/hours use the red button, and to set the value, use the green button.
+A 24 hour binary clock with 2 time setting buttons. To enter "time setting" mode and toggle between seconds/minutes/hours use the red button, and to set the value use the green button.
 
 *BOM*:
 * 17 LEDs

@@ -8,4 +8,4 @@ A 24 hour binary clock with 2 time setting buttons. To enter "time setting" mode
 * 1 breadboard
 * Arduino nano/uno
 
-![alt text](https://github.com/Rchana/binary-clock/pics/front-view.jpg "Finished design")
+![alt text](https://github.com/Rchana/binary-clock/blob/master/pics/front-view.jpg "Finished design")
